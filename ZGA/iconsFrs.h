@@ -12,14 +12,18 @@
  *  are kept together to avoid inconsistency.
  */
 
+
 #ifndef _ICONSFRS_h
 #define _ICONSFRS_h
-
+#define __DEFINE_FUNC_PTR
 #ifdef __cplusplus
 extern "C" {
 #endif
 
+
+
 #include "iconsConst.h"
+
 
 //Camera ID
 #define	ICONS_FRS_CAM_DEFAULT						0

@@ -24,12 +24,24 @@
     <ClInclude Include="iconsFrs.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MyTestClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ZGA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyTestClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
